@@ -1,0 +1,17 @@
+{
+  "name": "scs-webdriver",
+  "version": "1.0.0",
+  "description": "webdriver",
+  "author": "scscms <guangda1234@126.com>",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 4.0.0"
+  }
+}
